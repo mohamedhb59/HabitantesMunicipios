@@ -100,7 +100,7 @@ ON Codigo_Municipio='3';
 
 //Ejercicio5.De todas las viviendas del municipio de Aviles, su direccion, localidad y nombre del propietario.//
 
-Select 
+Select
 
 
 
@@ -110,3 +110,90 @@ Select
 
 
 //Ejercicio7.Direccion completa de todas las viviendas del municipio de Oviedo y nombre y telefono de su propietario para todas aquellas que superan los 150 m2.//
+
+
+
+
+
+//Ejercicio8.Nombre de todos los municipios de Asturias en los que la superficie media de sus viviendas supera los 70 m2.//
+
+
+
+
+
+//Ejercicio9.Nombre de cada municipio de Asturias y cantidad de viviendas en cada uno de ellos que supera los 300 m2//
+
+
+
+
+
+//Ejercicio10.Número total de cabezas de familia empadronados en el municipio de Proaza.//
+
+
+
+
+
+//Ejercicio11.Número total de municipios en cada provincia junto con el nombre de la misma.//
+
+
+
+
+
+//Ejercicio12.Cantidad total de personas a cargo de cada cabeza de familia de las localidades de Asturias cuyo nombre empieza o termina por la letra ‘s’.//
+
+
+
+
+
+//Ejercicio13.Media de personas a cargo de un cabeza de familia en cada municipio de la provincia de Asturias.//
+
+
+
+
+
+//Ejercicio14.Tamaño medio en metros cuadrados de las viviendas de cada municipio de la provincia de Asturias.//
+
+
+
+
+//Ejercicio15.Nombre, dirección y teléfono del cabeza de familia responsable de la persona con el D.N.I.  11.421.124.//
+
+
+
+
+
+//Ejercicio16.Nombre y número de viviendas que posee cada cabeza de familia empadronado en un municipio de Asturias.//
+
+
+
+
+
+//Ejercicio17.Nombre, dirección y teléfono de aquellos cabezas de familia que no poseen una vivienda en el municipio en el que están empadronados.//
+
+
+
+
+
+//Ejercicio18.Nombre, dirección y teléfono de las personas que están empadronadas o poseen una vivienda en el municipio de Colunga y cuyo nombre empieza por la letra ‘A’. 
+La consulta incluirá una última columna en la que se mostrará el valor “empadronado” si la fila incluye datos de una persona empadronada o el valor “propietario” si la fila incluye datos de una persona que posee una vivienda en el municipio.//
+
+
+
+
+
+//Ejercicio19.Dirección completa de la vivienda, junto con el nombre y teléfono de su propietario, de aquellas viviendas de Asturias cuya superficie sea mayor que la de todas las viviendas de Boal.//
+
+
+
+
+
+//Ejercicio20.Nombre, dirección y teléfono de las personas cuyo nombre empieza por la letra ‘B’, que están empadronadas en Morcín y poseen viviendas en dicho municipio.//
+
+
+
+
+
+/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
