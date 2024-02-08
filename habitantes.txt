@@ -1,0 +1,17 @@
+Ejercicio Habitantes.
+
+Tabla Municipios.
+Atributos: Codigo_Municipio (PrimaryKey), Nombre , Provincia
+
+Tabla Personas.
+Atributos: DNI (PrimaryKey), Nombre , Telefono , CabezaDeFamilia, Codigo_Municipio (ForeignKey)
+
+Tabla Viviendas.
+Atributos: Codigo_Vivienda (PrimaryKey), Direccion , CodigoPostal , MetrosCuadrados , DNI (ForeignKey)
+
+Tabla Personas_Viviendas 
+Atributos: CodigoVivienda , DNI_Persona , Primary Key (CodigoVivienda, DNI_Persona), Codigo_Vivienda (Foreign Key) ,
+DNI (Foreign Key)
+
+
+
